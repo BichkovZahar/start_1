@@ -9,3 +9,4 @@ def count_vowels(s):
     print('Текст:' , s)
     print('Кількість гласних в тексті' , count)
 count_vowels(s)
+print()
